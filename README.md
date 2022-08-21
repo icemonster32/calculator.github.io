@@ -4,4 +4,5 @@ A simple calculator using HTML, CSS, and JavaScript. This calculator used functi
 
 ## Overview of the project.
 
-<img src="" >
+<img src="images/pic1.png">
+<img src="images/pic2.png">
