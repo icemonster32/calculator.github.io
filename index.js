@@ -1,5 +1,6 @@
 let result = document.querySelector("#result")
 
+
 /* onload input focus */
 onload = () => {
    result.focus()
@@ -26,7 +27,7 @@ erase = () => {
    onload()
 }
 
-/* compute */
+/* calculate */
 compute = () => {
    try {
       let calc = new Function("return " + result.value)()
